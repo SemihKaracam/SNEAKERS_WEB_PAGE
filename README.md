@@ -1,9 +1,8 @@
 # SNEAKERS_WEB_PAGE
+# https://sneakers-web.vercel.app/
 
-https://sneakers-web.vercel.app/
 
 Screenshots from the website I made in this project
-
 
 ![website-foto-1](https://user-images.githubusercontent.com/73291115/171839409-cf51948e-9d1c-4706-9a42-b651875df237.png)
 ![website-foto-2](https://user-images.githubusercontent.com/73291115/171839529-6f587ab7-07eb-411a-b21b-0f934fdd1089.png)
