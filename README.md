@@ -1,6 +1,6 @@
 # SNEAKERS_WEB_PAGE
 
-Static website
+https://sneakers-web.vercel.app/
 
 Screenshots from the website I made in this project
 
